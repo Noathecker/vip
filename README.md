@@ -394,7 +394,7 @@ main { padding-bottom: 160px; } /* give space for toggle button and tabs */</sty
 </div>
 </div>
 <div class="game-item card" style="display:flex;align-items:center;gap:12px;padding:10px">
-<img alt="Assault Lily" src="512.png" style="width:80px;height:80px;border-radius:8px;object-fit:cover"/>
+<img alt="Assault Lily" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UA8dea2wvxjE0KOULTq1-aVtdLMQMaVJX3jgHgRrxA&s" style="width:80px;height:80px;border-radius:8px;object-fit:cover"/>
 <div style="flex:1">
 <div style="font-weight:700">Assault Lily</div>
 <div class="muted small">🔥VIP🔥</div>
