@@ -566,7 +566,7 @@ main { padding-bottom: 160px; } /* give space for toggle button and tabs */</sty
     if (d.type === 'Pro') {
       window.open('https://stagingngg.net/apps/uncube/10005/now.html', '_blank');
     } else if (d.type === 'VPN') {
-      window.open('https://testdrive-int2.now.gg/apps/uncube/7074/now.html', '_blank');
+      window.open('https://now.gg/apps/uncube/10005/now.html', '_blank');
     }
   }
   d.running = !d.running;
